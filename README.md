@@ -1,3 +1,5 @@
+##ThinkBoard
+
 ThinkBoard is a collaborative whiteboard web application that allows users to draw, sketch, and brainstorm ideas together in real-time. Perfect for remote teams, classrooms, and creative sessions, BrainBoard provides an intuitive and interactive canvas for collaboration.
 
 Features
