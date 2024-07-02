@@ -14,7 +14,7 @@ const Board: React.FC<MyBoard> = (props) => {
     const [socket, setSocket] = useState(null);
 
     useEffect(() => {
-        const backendURL = "https://your-backend-service.onrender.com";
+        const backendURL = "https://thinkboard.onrender.com";
         const newSocket = io(backendURL);
         console.log(newSocket, "Connected to socket");
         setSocket(newSocket as any);
