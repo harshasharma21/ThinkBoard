@@ -9,7 +9,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://your-backend-service.onrender.com',
+        target: 'https://thinkboard.onrender.com',
         changeOrigin: true,
         secure: false,
       },
